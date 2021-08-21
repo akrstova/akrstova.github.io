@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am currently a Data Analyst at Airbus Defence and Space in Friedrichshafen, Germany. I'm working </p>
+<p>I am currently a Data Analyst at Airbus Defence and Space in Friedrichshafen, Germany (Space Systems). I'm working on topics like deep learning for spacecraft telemetry processing, spacecraft design optimization, and linked data.</p>
 
 <h2>Skills</h2>
 
