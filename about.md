@@ -10,10 +10,10 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Programming languages:</b> Python, Java, Kotlin</li>
-	<li><b>Machine learning frameworks:</b>TensorFlow, Keras</li>
-	<li><b>Web development frameworks:</b>Angular 2+, Flask, Spring Boot, Ktor</li>
-	<li><b>Database technologies:</b>MySQL, PostgreSQL, Neo4J, MongoDB</li>
-	<li><b>Other skills:</b>Unix administration, Git, Microsoft Azure</li>
+	<li><b>Machine learning frameworks:</b> TensorFlow, Keras</li>
+	<li><b>Web development frameworks:</b> Angular 2+, Flask, Spring Boot, Ktor</li>
+	<li><b>Database technologies:</b> MySQL, PostgreSQL, Neo4J, MongoDB</li>
+	<li><b>Other skills:</b> Unix administration, Git, Microsoft Azure</li>
 </ul>
 
 <!-- <h2>Projects</h2>
