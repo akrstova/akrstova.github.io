@@ -1,57 +1,61 @@
 First Name Last Name
 ===========
 
-> [username@domain.com](mailto:username@domain.com) |
-> +01 1111111111 |
-> [website.me](https://website.me) |
-> [Linkedin](https://linkedin.com/username) |
-> City, Country
+> [krstova.alisa@gmail.com](mailto:krstova.alisa@gmail.com) |
+> [Linkedin](https://linkedin.com/alisakrstova) |
+> Germany
 
 Education
 ---------
 
-Sep 2010 - Jun 2014
-:   **Name of the Institution**
+2019 - 2021
+:   **University of Konstanz, Germany**
 
-    - Degree
+    - Master of Computer and Information Science (with honors)
+
+2014 - 2018
+:   **Faculty of Computer Science and Engineering, Skopje, North Macedonia**
+
+    - Bachelor of Computer Science and Engineering (with honors)
 
 Work Experience
 ---------------
 
-Jan 2016 - Nov 2018
-:   **[Company Name](https://companyname.com), Position, title**
+Aug 2019 - present
+:   **[Airbus Defence and Space](https://www.airbus.com/en/products-services/space), Data Scientist**
 
-    - what you did there item 1
-    - what you did there item 2
-    - what you did there item 3
-    - what you did there item 4
-    - what you did there item 4
-    - what you did there item 4
+    - Data Scientist (working predominantly on time series processing and anomaly detection using ML/DL)
+    - Technical lead for a team of fullstack developers and data scientists
+    - Worked as a fullstack software engineer on a linked data system (Kotlin, Angular11, Neo4j) 
+    - Led a work package in a larger company-wide digitalization initiative and acted as a product owner
 
-Dec 2014 - Dec 2015
-:   **[Company Name](http://companyname.com/), Position, title**
+Oct 2018 - Jul 2019
+:   **[Hensoldt](https://www.hensoldt.net/), Software Engineer**
 
-    - what you did there item 1
-    - what you did there item 2
-    - what you did there item 3
-    - what you did there item 4
-    - what you did there item 4
-    - what you did there item 4
+    - Photogrammetry and deep learning for 3D model reconstruction
+    
 
-Projects
------------------
+[//]: # (Projects)
 
-[Project 1](https://github.com/username/project1)
-:   Project 1 description
+[//]: # (-----------------)
 
-[Project 2](https://github.com/username/project2)
-:   Project 2 description
+[//]: # ()
+[//]: # ([Project 1]&#40;https://github.com/username/project1&#41;)
 
-[Project 3](https://github.com/username/project3)
-:   Project 3 description
+[//]: # (:   Project 1 description)
+
+[//]: # ()
+[//]: # ([Project 2]&#40;https://github.com/username/project2&#41;)
+
+[//]: # (:   Project 2 description)
+
+[//]: # ()
+[//]: # ([Project 3]&#40;https://github.com/username/project3&#41;)
+
+[//]: # (:   Project 3 description)
 
 Skills
 ------
 
 Languages
-:   language1, language2, language3, ...
+:   Python, Java, TypeScript, Kotlin, Angular2+, relational databases, Neo4j, Unix
