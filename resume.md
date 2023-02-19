@@ -35,24 +35,6 @@ Oct 2018 - Jul 2019
     - Photogrammetry and deep learning for 3D model reconstruction
     
 
-[//]: # (Projects)
-
-[//]: # (-----------------)
-
-[//]: # ()
-[//]: # ([Project 1]&#40;https://github.com/username/project1&#41;)
-
-[//]: # (:   Project 1 description)
-
-[//]: # ()
-[//]: # ([Project 2]&#40;https://github.com/username/project2&#41;)
-
-[//]: # (:   Project 2 description)
-
-[//]: # ()
-[//]: # ([Project 3]&#40;https://github.com/username/project3&#41;)
-
-[//]: # (:   Project 3 description)
 
 Skills
 ------
